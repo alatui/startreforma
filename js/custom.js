@@ -142,7 +142,7 @@ $(document).ready(function () {
         navigation: false, // Show next and prev buttons
         slideSpeed: 800,
         paginationSpeed: 400,
-        autoPlay: 10000,
+        autoPlay: 15000,
         singleItem: true
     });
 
